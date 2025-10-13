@@ -1,3 +1,34 @@
+#POE-Part-2-Programming 
+A Java messaging application with user authentication and message management. Users can send, store, and view messages with validation and security features.
+
+#Features
+User Login - Secure authentication required
+Send Messages - With recipient validation plus 27 format
+Message Actions - Send, Store, or Disregard options
+View History - See all sent messages with details
+Message Validation - 250 character limit and phone number validation
+
+#Tech Stack
+Java Swing - GUI interface
+JUnit - Testing framework
+GitHub Actions - CI CD pipeline
+
+#Requirements Met
+Login protected messaging
+Message creation with validation
+Message hash generation
+Recent messages display
+Comprehensive unit tests
+
+#Usage
+Register with username must contain underscore
+Login with credentials
+Choose number of messages to send
+Enter recipient plus 27 format and message
+Select action Send, Store, or Disregard
+View sent messages in history
+
+
 # POE-Part-1-Programming
 This is a project about a Chat App, where the first part we create the phase of registration and login phase of the chatapp.
 
