@@ -52,35 +52,36 @@ Before Part 3, our app could send messages, but it was like having a phone that 
 ## Try It Out!
 The coolest part is seeing it all come together. When you use the search features and they actually find what you're looking for, or when you generate a report and see your entire messaging history laid out clearly - that's when you realize how much more useful the app has become.We went from a simple "send message" tool to a proper communication management system. Pretty neat, right?
 
-#POE-Part-2-Programming 
+# **POE-Part-2-Programming** 
+
 A Java messaging application with user authentication and message management. Users can send, store, and view messages with validation and security features.
 
-#Features
-User Login - Secure authentication required
-Send Messages - With recipient validation plus 27 format
-Message Actions - Send, Store, or Disregard options
-View History - See all sent messages with details
-Message Validation - 250 character limit and phone number validation
+## **Features**
+- **User Login** - Secure authentication required
+- **Send Messages** - With recipient validation plus 27 format
+- **Message Actions** - Send, Store, or Disregard options
+- **View History** - See all sent messages with details
+- **Message Validation** - 250 character limit and phone number validation
 
-#Tech Stack
-Java Swing - GUI interface
-JUnit - Testing framework
-GitHub Actions - CI CD pipeline
+## **Tech Stack**
+- **Java Swing** - GUI interface
+- **JUnit** - Testing framework
+- **GitHub Actions** - CI CD pipeline
 
-#Requirements Met
-Login protected messaging
-Message creation with validation
-Message hash generation
-Recent messages display
-Comprehensive unit tests
+## **Requirements Met**
+- Login protected messaging
+- Message creation with validation
+- Message hash generation
+- Recent messages display
+- Comprehensive unit tests
 
-#Usage
-Register with username must contain underscore
-Login with credentials
-Choose number of messages to send
-Enter recipient plus 27 format and message
-Select action Send, Store, or Disregard
-View sent messages in history
+## **Usage**
+1. **Register** with username must contain underscore
+2. **Login** with credentials
+3. **Choose number** of messages to send
+4. **Enter recipient** plus 27 format and message
+5. **Select action** Send, Store, or Disregard
+6. **View sent messages** in history
 
 
 # POE-Part-1-Programming
